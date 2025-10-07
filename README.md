@@ -1,8 +1,17 @@
-### Installment
+## 🕸️ Web Scraping and Dashboard Project
 
-Install the required packages using:
+### 📌 Project Summary
+
+<p>
+This project scrapes historical MLB event data using Selenium from Baseball Almanac
+, cleans and transforms it with Pandas, stores it in a SQLite database, and visualizes it in a Streamlit dashboard. Users can filter by year and event type to explore trends and view detailed event records.
+</p>
+
+### ▶️ Installation
 
 ```
+python -m venv .venv
+source .venv/bin/activate
 pip install -r requirement.txt
 ```
 📚 Dependencies
