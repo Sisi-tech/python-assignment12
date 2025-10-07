@@ -1,3 +1,19 @@
+### Installment
+
+Install the required packages using:
+
+```
+pip install -r requirement.txt
+```
+📚 Dependencies
+
+* streamlit
+* pandas
+* plotly
+* numpy
+* matplotlib
+* selenium
+* tabulate
 
 ### Video
 
